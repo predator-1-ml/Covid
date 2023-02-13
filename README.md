@@ -17,12 +17,21 @@ used 2 datasets.Both the datasets consists of CT-scans along with their infectio
 first dataset, it consists of 1200 images with the infection mask. In the second dataset, it consists
 of 1564 CT-scans along with their infection masks.
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 # Methodology 
 ![This is the methodology](/images/flow_chart_covid.jpg)
 
 The overall methodology is given in Fig. 1. For classification and segmentation, we used two
 different approaches. We employed an uncertainity aware transfer learning approach for classification. We utilized the U-net framework for segmentation.
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+
+# Classification 
+
+To detect the presence of COVID-19, the suggested framework only relies on the information
+content of X-rays and CT images. In this report, we evaluate two best pretrained networks on
+the ImageNet data set and import and adjust them for COVID-19 identification. ResNet50 and
+InceptionResNetV2 are the names of these networks.
+
 
