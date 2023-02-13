@@ -17,9 +17,11 @@ used 2 datasets.Both the datasets consists of CT-scans along with their infectio
 first dataset, it consists of 1200 images with the infection mask. In the second dataset, it consists
 of 1564 CT-scans along with their infection masks.
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Datasets | Covid    | Non-Covid   |
+| :---:    | :---:    | :---:       |
+| CT-scans | 7593     | 6893        |
+| :---:    | :---:    | :---:       |
+| X-Rays   | 3616     | 10200       |
 
 # Methodology 
 ![This is the methodology](/images/flow_chart_covid.jpg)
