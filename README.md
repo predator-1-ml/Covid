@@ -18,5 +18,6 @@ first dataset, it consists of 1200 images with the infection mask. In the second
 of 1564 CT-scans along with their infection masks.
 
 # Methodology 
+![This is the methodology](/images/flow_chart_covid.jpg)
 
 
