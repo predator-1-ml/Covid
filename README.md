@@ -16,3 +16,7 @@ for CT-scans, consisting of 7593 Covid-19 and 6893 Non-Covid images.For segmenta
 used 2 datasets.Both the datasets consists of CT-scans along with their infection masks. In the
 first dataset, it consists of 1200 images with the infection mask. In the second dataset, it consists
 of 1564 CT-scans along with their infection masks.
+
+# Methodology 
+
+
