@@ -22,6 +22,12 @@ of 1564 CT-scans along with their infection masks.
 | CT-scans | 7593     | 6893        |
 | X-Rays   | 3616     | 10200       |
 
+
+| Datasets | Mask Images   | 
+| :---:    | :---:         |
+| I        | 1200          |
+| II       | 1564          |
+
 # Methodology 
 ![This is the methodology](/images/flow_chart_covid.jpg)
 
