@@ -20,7 +20,6 @@ of 1564 CT-scans along with their infection masks.
 | Datasets | Covid    | Non-Covid   |
 | :---:    | :---:    | :---:       |
 | CT-scans | 7593     | 6893        |
-| :---:    | :---:    | :---:       |
 | X-Rays   | 3616     | 10200       |
 
 # Methodology 
