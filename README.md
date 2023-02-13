@@ -33,5 +33,5 @@ To detect the presence of COVID-19, the suggested framework only relies on the i
 content of X-rays and CT images. In this report, we evaluate two best pretrained networks on
 the ImageNet data set and import and adjust them for COVID-19 identification. ResNet50 and
 InceptionResNetV2 are the names of these networks.
-
+![This is for classification](/images/transfer_learning(1).png)
 
