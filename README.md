@@ -35,3 +35,14 @@ the ImageNet data set and import and adjust them for COVID-19 identification. Re
 InceptionResNetV2 are the names of these networks.
 ![This is for classification](/images/transfer_learning_class.png)
 
+# Segmentation
+
+The general approach to semantically segmenting pictures is to develop a structure that collects
+features through consecutive convolutions and outputs a segmentation map.
+U-NET was created with the intention of comprehending and segmenting medical images. It
+is a significant architecture in the medical imaging automation society and has a wide range of
+applications in the sector. In this part, we go through the network’s core technological aspects and
+how they contribute to successful outcomes.
+
+![This is segmentation](/images/segmentation.png)
+
