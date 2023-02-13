@@ -20,4 +20,6 @@ of 1564 CT-scans along with their infection masks.
 # Methodology 
 ![This is the methodology](/images/flow_chart_covid.jpg)
 
+The overall methodology is given in Fig. 1. For classification and segmentation, we used two
+different approaches. We employed an uncertainity aware transfer learning approach for classification. We utilized the U-net framework for segmentation.
 
