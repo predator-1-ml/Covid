@@ -22,4 +22,7 @@ of 1564 CT-scans along with their infection masks.
 
 The overall methodology is given in Fig. 1. For classification and segmentation, we used two
 different approaches. We employed an uncertainity aware transfer learning approach for classification. We utilized the U-net framework for segmentation.
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
 
