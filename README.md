@@ -44,5 +44,5 @@ is a significant architecture in the medical imaging automation society and has 
 applications in the sector. In this part, we go through the network’s core technological aspects and
 how they contribute to successful outcomes.
 
-![This is segmentation](/images/segmentation.png)
+![This is segmentation](/images/segmentation_covid.png)
 
