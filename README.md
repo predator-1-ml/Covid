@@ -57,4 +57,4 @@ how they contribute to successful outcomes.
 
 I have done rigourous research on the results part, I have compared my model performance with the other state of the art models. My model outperformed all the models that I have considered on the above mentioned datasets. For more info on results, you can check the report included in the repo. 
 
-## save all the notebooks with their results and save them in this repo
+
